@@ -1,0 +1,1636 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- meta SOE satrt -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Apple Footer · 1. · Available in the U.S. on apple.com, in the Apple Store app, and at Apple Stores. · To access and use all Apple Card features and products ..."
+    />
+    <meta
+      name="keywords"
+      content="Apple, iPhone, MacBook, Mac, Apple Watch, Watch, Music, Entertainment, Store, E-commerce"
+    />
+    <meta property="og:title" content="Apple.." />
+    <meta
+      property="og:description"
+      content="Apple Footer · 1. · Available in the U.S. on apple.com, in the Apple Store app, and at Apple Stores. · To access and use all Apple Card features and products ..."
+    />
+    <meta property="og:type" content="E-commerce" />
+    <meta property="og:url" content="https://www.apple.com/" />
+    <meta
+      property="og:image"
+      content="./public/icons/android-chrome-512x512.png"
+    />
+    <meta property="authors" content="Mosh Hamedani" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@moshhamedani" />
+    <meta name="twitter:creator" content="@moshhamedani" />
+    <meta name="twitter:title" content="Code with Mosh" />
+    <meta
+      name="twitter:description"
+      content="Become the software engineer that companies love to hire."
+    />
+    <meta
+      name="twitter:image"
+      content="https://res.cloudinary.com/codewithmosh/image/upload/v1685118159/images/web-preview.jpg"
+    />
+
+    <!-- meta SOE end -->
+
+    <!-- font awesome satrt -->
+    <script
+      src="https://kit.fontawesome.com/085ca918c1.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- font awesome end -->
+    <!-- font link start -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300..800&family=Montserrat:ital,wght@0,600;1,600&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- font link end -->
+
+    <!-- frame work bootstap start-->
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
+    <!-- frame work bootstap end-->
+    <!-- favicon satrt -->
+    <link
+      rel="shortcut icon"
+      href="./public/icons/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="./public/icons/apple-touch-icon.png" />
+
+    <!-- favicon end -->
+    <!-- css link satrt -->
+    <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css" />
+    <link rel="stylesheet" href="./src/css/style.css" />
+    <!-- css link end -->
+
+    <!-- title start -->
+    <title>Apple</title>
+    <!-- title end -->
+  </head>
+  <!--TODO: body start -->
+  <body>
+    <!-- header start -->
+    <!-- Bugfix -->
+<<<<<<< HEAD
+
+    <!-- hello from master -->
+=======
+    <!-- Hello -->
+>>>>>>> 67c71e0 (Update index.html for rebashing)
+    <header class="header">
+      <nav class="block--container collapsible navbar">
+        <a href="#">
+          <span class="fa-brands fa-apple navbar__brand"></span>
+        </a>
+        <div class="navbar-icon--container">
+          <span class="fa-solid fa-bars fa-beat fa-xl navbar__icon"></span>
+        </div>
+
+        <ul class="collapsible__content navbar__list">
+          <li><a href="#">Store</a></li>
+          <li><a href="#">Mac</a></li>
+          <li><a href="#">iPad</a></li>
+          <li><a href="#">iPhone</a></li>
+          <li><a href="#">Watch</a></li>
+          <li><a href="#">Vision</a></li>
+          <li><a href="#">AirPods</a></li>
+          <li><a href="#">TV & Home</a></li>
+          <li><a href="#">Entertainment</a></li>
+          <li><a href="#">Accessories</a></li>
+          <li><a href="#">Support</a></li>
+          <li>
+            <a href="#"><span class="fa-solid fa-magnifying-glass"></span></a>
+          </li>
+          <li>
+            <a href="#"><span class="fa-solid fa-bag-shopping"></span></a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!-- header end -->
+    <!-- main start -->
+    <main>
+      <!-- hero satrt -->
+      <section class="block--fullscreen hero">
+        <div class="promo">
+          <!-- promo banner satrt -->
+
+          <div class="promo__banner">
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="./public/images/hero_md24__e3yulubypvki_mediumtall.jpg"
+              />
+              <source
+                media="(min-width: 900px) and (max-width:1250px)"
+                srcset="./public/images/hero_md24__e3yulubypvki_medium.jpg"
+              />
+              <source
+                media="(min-width:1250px)"
+                srcset="./public/images/hero_md24__e3yulubypvki_large.jpg"
+              />
+              <img
+                src="./public/images/hero_md24__e3yulubypvki_mediumtall.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+          </div>
+
+          <!-- promo banner end -->
+
+          <!-- promo link satrt -->
+
+          <a href="https://www.apple.com/apple-vision-pro/" class="promo__link"
+            >&nbsp;</a
+          >
+
+          <!-- promo link end -->
+
+          <!-- promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <div class="promo__content--bottom">
+              <!-- heading satrt -->
+
+              <h3 class="promo__heading">
+                <!-- vision pro img heading satrt  -->
+
+                Mother's Day
+
+                <!--  vision pro img heading end  -->
+              </h3>
+
+              <!-- heading end -->
+
+              <!-- heading text satrt -->
+
+              <p class="promo__text">Find the perfect gift for Mom</p>
+
+              <!-- heading text end -->
+
+              <!-- Button start -->
+
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="btn btn--primary promo__btn"
+                  >Shop</a
+                >
+              </div>
+
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="block--fullscreen">
+        <div class="promo">
+          <!-- promo banner satrt -->
+
+          <div class="promo__banner">
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="
+                  ./public/images/hero_apple_vision_pro_enhanced_endframe__b917czne63hy_small.jpg
+                "
+              />
+
+              <source
+                media="(min-width:800px) and (max-width:1024px)"
+                srcset="
+                  ./public/images/hero_apple_vision_pro_enhanced_endframe__b917czne63hy_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="
+                  ./public/images/hero_apple_vision_pro_enhanced_endframe__b917czne63hy_large.jpg
+                "
+              />
+              <img
+                src="./public/images/hero_apple_vision_pro_enhanced_endframe__b917czne63hy_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+          </div>
+
+          <!-- promo banner end -->
+
+          <!-- promo link satrt -->
+
+          <a href="https://www.apple.com/apple-vision-pro/" class="promo__link"
+            >&nbsp;</a
+          >
+
+          <!-- promo link end -->
+
+          <!-- promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <div class="promo__content--bottom">
+              <!-- heading satrt -->
+
+              <h3 class="promo__heading">
+                <!-- vision pro img heading satrt  -->
+
+                <picture>
+                  <source
+                    media="(max-width: 800px)"
+                    srcset="
+                      ./public/icons/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small.png
+                    "
+                  />
+                  <source
+                    media="(min-width: 800px) and (max-width:1024px)"
+                    srcset="
+                      ./public/icons/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_medium.png
+                    "
+                  />
+                  <source
+                    media="(min-width:1024px)"
+                    srcset="
+                      ./public/icons/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_large.png
+                    "
+                  />
+                  <img
+                    src="./public/icons/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small.png"
+                    alt="Vision pro product"
+                  />
+                </picture>
+
+                <!--  vision pro img heading end  -->
+              </h3>
+
+              <!-- heading end -->
+
+              <!-- heading text satrt -->
+
+              <p class="promo__text promo--text-white">
+                You've never seen everything like this before.
+              </p>
+
+              <!-- heading text end -->
+
+              <!-- Button start -->
+
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="btn btn--white promo__btn"
+                  >Learn more</a
+                >
+                <a
+                  href="https://www.apple.com/shop/buy-vision/apple-vision-pro"
+                  class="btn btn--outline-white promo__btn"
+                  >Buy</a
+                >
+              </div>
+
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="block--fullscreen">
+        <div class="promo">
+          <!-- promo banner satrt -->
+
+          <div class="promo__banner">
+            <picture>
+              <source
+                media="(max-width: 900px)"
+                srcset="
+                  ./public/images/hero_5_apple_event_may__dbsie4ibfzma_small.jpg
+                "
+              />
+
+              <source
+                media="(min-width:900px) and (max-width:1250px)"
+                srcset="
+                  ./public/images/hero_5_apple_event_may__dbsie4ibfzma_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1250px)"
+                srcset="
+                  ./public/images/hero_5_apple_event_may__dbsie4ibfzma_large.jpg
+                "
+              />
+              <img
+                src="./public/images/hero_5_apple_event_may__dbsie4ibfzma_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+          </div>
+
+          <!-- promo banner end -->
+
+          <!-- promo link satrt -->
+
+          <a href="https://www.apple.com/apple-vision-pro/" class="promo__link"
+            >&nbsp;</a
+          >
+
+          <!-- promo link end -->
+
+          <!-- promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <div class="promo__content--bottom">
+              <!-- heading satrt -->
+
+              <h3 class="promo__heading promo-heading--black">
+                <!-- vision pro img heading satrt  -->
+
+                Apple Event
+
+                <!--  vision pro img heading end  -->
+              </h3>
+
+              <!-- heading end -->
+
+              <!-- heading text satrt -->
+
+              <p class="promo__text promo-heading--black">
+                Watch online on 5/7 at 7 a.m.PT.
+              </p>
+
+              <!-- heading text end -->
+
+              <!-- Button start -->
+
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="btn btn--primary promo__btn"
+                  >Learn more</a
+                >
+              </div>
+
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- hero end -->
+      <!-- promotion grid start -->
+      <section class="grid grid--1x2">
+        <!-- iPhone 15 pro promotions start -->
+
+        <div class="promo">
+          <!-- promo banner satrt -->
+
+          <div class="promo__banner promo--header-watch">
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="
+                  ./public/images/promo_iphone15pro__e48p7n5x3nsm_small.jpg
+                "
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone15pro__e48p7n5x3nsm_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone15pro__e48p7n5x3nsm_large.jpg
+                "
+              />
+              <img
+                src="./public/images/promo_iphone15pro__e48p7n5x3nsm_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+          </div>
+
+          <!-- promo banner end -->
+
+          <!-- promo link satrt -->
+
+          <a href="https://www.apple.com/apple-vision-pro/" class="promo__link"
+            >&nbsp;</a
+          >
+
+          <!-- promo link end -->
+
+          <!-- promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+
+              <h3 class="promo__heading promo-heading--white">
+                <!-- vision pro img heading satrt  -->
+
+                iPhone 15 Pro
+
+                <!--  vision pro img heading end  -->
+              </h3>
+
+              <!-- heading end -->
+
+              <!-- heading text satrt -->
+
+              <p class="promo__text promo--text-white">
+                Titanium. So strong. So lignt. So Pro.
+              </p>
+
+              <!-- heading text end -->
+
+              <!-- Button start -->
+
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="btn btn--primary promo__btn"
+                  >Learn more</a
+                >
+                <a
+                  href="https://www.apple.com/shop/buy-vision/apple-vision-pro"
+                  class="btn btn--outline promo__btn"
+                  >Buy</a
+                >
+              </div>
+
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- iPhone 15 Pro promotions end -->
+
+        <!-- iPhone 15 promotion start -->
+
+        <div class="promo">
+          <!-- iphone 15  promotion banner start -->
+          <div class="promo__banner promo--header-mac">
+            <!-- banner img media start -->
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="
+                  ./public/images/promo_iphone15_announce__fmxxi8r9fkuy_small.jpg
+                "
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone15_announce__fmxxi8r9fkuy_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone15_announce__fmxxi8r9fkuy_large.jpg
+                "
+              />
+              <img
+                src="./public/images/promo_iphone15_announce__fmxxi8r9fkuy_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+            <!-- banner img media end -->
+          </div>
+
+          <!-- macbook air promotion banner end -->
+
+          <!-- macbook link start -->
+
+          <a href="https://www.apple.com/macbook-air/" class="promo__link"
+            >&nbsp;</a
+          >
+          <!-- macbook link end -->
+
+          <!-- macbook promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <!-- the content in sthe top -->
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+              <h3 class="promo__heading">iPhone 15</h3>
+              <!-- heading end -->
+              <!-- heading text satrt -->
+              <p class="promo__text">new camera. New design. Newphoria.</p>
+              <!-- heading text end -->
+
+              <!-- Button start -->
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/macbook-air/"
+                  class="btn btn--primary promo__btn"
+                  >Learn more</a
+                >
+                <a
+                  href="https://www.apple.com/shop/buy-mac/macbook-air"
+                  class="btn btn--outline promo__btn"
+                  >Buy</a
+                >
+              </div>
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- MacBook Air promotion end -->
+      </section>
+      <section class="block grid grid--1x2">
+        <!-- watch promotion start -->
+
+        <div class="promo">
+          <!-- watch promotion banner start -->
+
+          <div class="promo__banner promo--header-watch">
+            <!-- media img banner start -->
+
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="
+                  ./public/images/promo_apple_watch_series_9_order_small.jpg
+                "
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="
+                  ./public/images/promo_apple_watch_series_9_order_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="
+                  ./public/images/promo_apple_watch_series_9_order_large.jpg
+                "
+              />
+              <img
+                src="./public/images/promo_apple_watch_series_9_order_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+
+            <!-- media img banner end -->
+          </div>
+
+          <!-- watch promotion banner end -->
+
+          <!-- watch link satrt -->
+
+          <a
+            href="https://www.apple.com/apple-watch-series-9/"
+            class="promo__link"
+            >&nbsp;</a
+          >
+
+          <!-- watch link end -->
+
+          <!-- promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <!-- the content in the top -->
+
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+
+              <h3 class="promo__heading">
+                <!-- an img media heading start -->
+
+                <picture>
+                  <source
+                    media="(max-width: 800px)"
+                    srcset="
+                      ./public/icons/promo_logo_apple_watch_series_9_small.png
+                    "
+                  />
+                  <source
+                    media="(min-width: 800px) and (max-width:1024px)"
+                    srcset="
+                      ./public/icons/promo_logo_apple_watch_series_9_medium.png
+                    "
+                  />
+                  <source
+                    media="(min-width:1024px)"
+                    srcset="
+                      ./public/icons/promo_logo_apple_watch_series_9_large.png
+                    "
+                  />
+                  <img
+                    src="./public/icons/promo_logo_apple_watch_series_9_small.png"
+                    alt="Vision pro product"
+                  />
+                </picture>
+
+                <!-- an img media heading end -->
+              </h3>
+
+              <!-- heading end -->
+
+              <!-- heading text satrt -->
+
+              <p class="promo__text promo--text-white">
+                Smarter. Brighter. Mightier.
+              </p>
+
+              <!-- heading text end -->
+
+              <!-- Button start -->
+
+              <div class="promo-btn__container">
+                <a href="#" class="btn btn--primary promo__btn">Learn more</a>
+                <a href="#" class="btn btn--outline promo__btn">Buy</a>
+              </div>
+
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- watch promotion end -->
+
+        <!-- macBook promotion start -->
+
+        <div class="promo">
+          <!-- macbook air  promotion banner start -->
+          <div class="promo__banner promo--header-mac">
+            <!-- banner img media start -->
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="./public/images/promo_macbook_air_m3_small.jpg"
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="./public/images/promo_macbook_air_m3_medium.jpg"
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="./public/images/promo_macbook_air_m3_large.jpg"
+              />
+              <img
+                src="./public/images/promo_macbook_air_m3_small.jpg"
+                alt="Vision pro product"
+              />
+            </picture>
+            <!-- banner img media end -->
+          </div>
+
+          <!-- macbook air promotion banner end -->
+
+          <!-- macbook link start -->
+
+          <a href="https://www.apple.com/macbook-air/" class="promo__link"
+            >&nbsp;</a
+          >
+          <!-- macbook link end -->
+
+          <!-- macbook promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <!-- the content in sthe top -->
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+              <h3 class="promo__heading">MacBook Air</h3>
+              <!-- heading end -->
+              <!-- heading text satrt -->
+              <p class="promo__text">Lean. Mean. M3 machine.</p>
+              <!-- heading text end -->
+
+              <!-- Button start -->
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/macbook-air/"
+                  class="btn btn--primary promo__btn"
+                  >Learn more</a
+                >
+                <a
+                  href="https://www.apple.com/shop/buy-mac/macbook-air"
+                  class="btn btn--outline promo__btn"
+                  >Buy</a
+                >
+              </div>
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- macBook promotion end -->
+      </section>
+      <section class="block grid grid--1x2">
+        <!-- card promotion start -->
+
+        <div class="promo">
+          <!-- card  promotion banner start -->
+          <div class="promo__banner promo--header-ipad">
+            <!-- banner img media start -->
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="./public/images/tile__cauwwcyyn9hy_small.jpg"
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="./public/images/tile__cauwwcyyn9hy_medium.jpg"
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="./public/images/tile__cauwwcyyn9hy_large.jpg"
+              />
+              <img
+                src="./public/images/tile__cauwwcyyn9hy_small.jpg"
+                alt="Card product"
+              />
+            </picture>
+            <!-- banner img media end -->
+          </div>
+
+          <!-- card promotion banner end -->
+
+          <!-- card link start -->
+
+          <a href="https://www.apple.com/apple-card/" class="promo__link"
+            >&nbsp;</a
+          >
+          <!-- cardlink end -->
+
+          <!-- card promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <!-- the content in sthe top -->
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+              <h3 class="promo__heading">
+                <!-- an img media heading start -->
+                <picture>
+                  <source
+                    media="(max-width: 800px)"
+                    srcset="./public/icons/logo__dcojfwkzna2q_small.png"
+                  />
+                  <source
+                    media="(min-width: 800px) and (max-width:1024px)"
+                    srcset="./public/icons/logo__dcojfwkzna2q_medium.png"
+                  />
+                  <source
+                    media="(min-width:1024px)"
+                    srcset="./public/icons/logo__dcojfwkzna2q_large.png"
+                  />
+                  <img
+                    src="./public/icons/logo__dcojfwkzna2q_small.png"
+                    alt="Card logo pro product"
+                  />
+                </picture>
+                <!-- an img media heading end -->
+              </h3>
+              <!-- heading end -->
+              <!-- heading text satrt -->
+              <p class="promo__text">
+                Get up to 3% Daily Cash back with every purchase.
+              </p>
+              <!-- heading text end -->
+
+              <!-- Button start -->
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/apple-card/"
+                  class="btn btn--primary promo__btn"
+                  >Learn more</a
+                >
+                <a
+                  href="https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false"
+                  class="btn btn--outline promo__btn"
+                  >Apply now</a
+                >
+              </div>
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- card promotion end -->
+
+        <!-- Trade In promotion start -->
+
+        <div class="promo">
+          <!-- Trade In  promotion banner start -->
+          <div class="promo__banner promo--header-ipad">
+            <!-- banner img media start -->
+            <picture>
+              <source
+                media="(max-width: 800px)"
+                srcset="
+                  ./public/images/promo_iphone_tradein__bugw15ka691e_small.jpg
+                "
+              />
+              <source
+                media="(min-width: 800px) and (max-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone_tradein__bugw15ka691e_medium.jpg
+                "
+              />
+              <source
+                media="(min-width:1024px)"
+                srcset="
+                  ./public/images/promo_iphone_tradein__bugw15ka691e_large.jpg
+                "
+              />
+              <img
+                src="./public/images/promo_iphone_tradein__bugw15ka691e_small.jpg"
+                alt="Trade In product"
+              />
+            </picture>
+            <!-- banner img media end -->
+          </div>
+
+          <!-- Trade In promotion banner end -->
+
+          <!-- Trade In link start -->
+
+          <a href="https://www.apple.com/shop/trade-in" class="promo__link"
+            >&nbsp;</a
+          >
+          <!-- Trade Inlink end -->
+
+          <!-- Trade In promo content to make it in the center of the img -->
+
+          <div class="promo--content">
+            <!-- the content in sthe top -->
+            <div class="promo__content--top">
+              <!-- heading satrt -->
+              <h3 class="promo__heading">
+                <!-- an img media heading start -->
+                <picture>
+                  <source
+                    media="(max-width: 800px)"
+                    srcset="./public/icons/logo_tradein__d1fpktgipvki_small.png"
+                  />
+                  <source
+                    media="(min-width: 800px) and (max-width:1024px)"
+                    srcset="
+                      ./public/icons/logo_tradein__d1fpktgipvki_medium.png
+                    "
+                  />
+                  <source
+                    media="(min-width:1024px)"
+                    srcset="./public/icons/logo_tradein__d1fpktgipvki_large.png"
+                  />
+                  <img
+                    src="./public/icons/logo_tradein__d1fpktgipvki_small.png"
+                    alt="Trade In logo pro product"
+                  />
+                </picture>
+                <!-- an img media heading end -->
+              </h3>
+              <!-- heading end -->
+              <!-- heading text satrt -->
+              <p class="promo__text">
+                Get $170-$630 in credit when you trade in iPhone 11 or higher.
+              </p>
+              <!-- heading text end -->
+
+              <!-- Button start -->
+              <div class="promo-btn__container">
+                <a
+                  href="https://www.apple.com/shop/trade-in"
+                  class="btn btn--primary promo__btn"
+                  >Get your estimate</a
+                >
+              </div>
+              <!-- Button end -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Trade In promotion end -->
+      </section>
+      <!-- promotion grid end -->
+      <!-- entertinment start -->
+      <section class="block--fullscreen">
+        <div
+          id="carouselExampleAutoplaying"
+          class="block--carousel carousel slide"
+          data-bs-ride="carousel"
+        >
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="promo">
+                <!-- promo banner satrt -->
+
+                <div class="promo__banner">
+                  <picture>
+                    <source
+                      media="(max-width: 800px)"
+                      srcset="./public/images/promo_macbook_air_m3_small.jpg"
+                    />
+                    <source
+                      media="(min-width: 800px) and (max-width:900px)"
+                      srcset="./public/images/promo_macbook_air_m3_medium.jpg"
+                    />
+                    <source
+                      media="(min-width:900px)"
+                      srcset="./public/images/promo_macbook_air_m3_large.jpg"
+                    />
+                    <img
+                      src="./public/images/promo_macbook_air_m3_small.jpg"
+                      alt="Vision pro product"
+                      class="d-block w-100"
+                    />
+                  </picture>
+                </div>
+
+                <!-- promo banner end -->
+
+                <!-- promo link satrt -->
+
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="promo__link promo-link--hover"
+                  >&nbsp;</a
+                >
+
+                <!-- promo link end -->
+
+                <!-- promo content to make it in the center of the img -->
+
+                <div class="promo--content promo-content--satrt">
+                  <div class="promo__content--bottom promo-bottom--flex">
+                    <!-- heading satrt -->
+
+                    <h3
+                      class="promo__heading promo-heading--order promo-heading--black"
+                    >
+                      <!--  heading satrt  -->
+                      MacBook
+                      <!--  heading end  -->
+                    </h3>
+
+                    <!-- heading end -->
+
+                    <!-- heading text satrt -->
+
+                    <p class="promo__text promo-text--order">
+                      Welcome to the era of spatial computing.
+                    </p>
+
+                    <!-- heading text end -->
+
+                    <!-- Button start -->
+
+                    <div class="promo-btn__container promo-btn--order">
+                      <a
+                        href="https://www.apple.com/apple-vision-pro/"
+                        class="btn btn--white promo__btn"
+                        >Buy now</a
+                      >
+                    </div>
+
+                    <!-- Button end -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="promo">
+                <!-- promo banner satrt -->
+
+                <div class="promo__banner">
+                  <picture>
+                    <source
+                      media="(max-width: 800px)"
+                      srcset="
+                        ./public/images/promo_ipad__fioegapg12qi_small.jpg
+                      "
+                    />
+                    <source
+                      media="(min-width: 800px) and (max-width:1024px)"
+                      srcset="
+                        ./public/images/promo_ipad__fioegapg12qi_medium.jpg
+                      "
+                    />
+                    <source
+                      media="(min-width:1024px)"
+                      srcset="
+                        ./public/images/promo_ipad__fioegapg12qi_large.jpg
+                      "
+                    />
+                    <img
+                      src="./public/images/promo_ipad__fioegapg12qi_small.jpg"
+                      alt="Vision pro product"
+                      class="d-block w-100"
+                    />
+                  </picture>
+                </div>
+
+                <!-- promo banner end -->
+
+                <!-- promo link satrt -->
+
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="promo__link promo-link--hover"
+                  >&nbsp;</a
+                >
+
+                <!-- promo link end -->
+
+                <!-- promo content to make it in the center of the img -->
+
+                <div class="promo--content promo-content--satrt">
+                  <div class="promo__content--bottom promo-bottom--flex">
+                    <!-- heading satrt -->
+
+                    <h3
+                      class="promo__heading promo-heading--order promo-heading--black"
+                    >
+                      <!--  heading satrt  -->
+                      iPad
+                      <!--  heading end  -->
+                    </h3>
+
+                    <!-- heading end -->
+
+                    <!-- heading text satrt -->
+
+                    <p class="promo__text promo-text--order">
+                      Welcome to the era of spatial computing.
+                    </p>
+
+                    <!-- heading text end -->
+
+                    <!-- Button start -->
+
+                    <div class="promo-btn__container promo-btn--order">
+                      <a
+                        href="https://www.apple.com/apple-vision-pro/"
+                        class="btn btn--white promo__btn"
+                        >Buy now</a
+                      >
+                    </div>
+
+                    <!-- Button end -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="promo">
+                <!-- promo banner satrt -->
+
+                <div class="promo__banner">
+                  <picture>
+                    <source
+                      media="(max-width: 800px)"
+                      srcset="
+                        ./public/images/promo_apple_watch_series_9_order_small.jpg
+                      "
+                    />
+                    <source
+                      media="(min-width: 800px) and (max-width:1024px)"
+                      srcset="
+                        ./public/images/promo_apple_watch_series_9_order_medium.jpg
+                      "
+                    />
+                    <source
+                      media="(min-width:1024px)"
+                      srcset="
+                        ./public/images/promo_apple_watch_series_9_order_large.jpg
+                      "
+                    />
+                    <img
+                      src="./public/images/promo_apple_watch_series_9_order_small.jpg"
+                      alt="Vision pro product"
+                      class="d-block w-100"
+                    />
+                  </picture>
+                </div>
+
+                <!-- promo banner end -->
+
+                <!-- promo link satrt -->
+
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="promo__link promo-link--hover"
+                  >&nbsp;</a
+                >
+
+                <!-- promo link end -->
+
+                <!-- promo content to make it in the center of the img -->
+
+                <div class="promo--content promo-content--satrt">
+                  <div class="promo__content--bottom promo-bottom--flex">
+                    <!-- heading satrt -->
+
+                    <h3
+                      class="promo__heading promo-heading--order promo-heading--white"
+                    >
+                      <!--  heading satrt  -->
+                      Watch serias 9
+                      <!--  heading end  -->
+                    </h3>
+
+                    <!-- heading end -->
+
+                    <!-- heading text satrt -->
+
+                    <p class="promo__text promo-text--order promo-text--white">
+                      Welcome to the era of spatial computing.
+                    </p>
+
+                    <!-- heading text end -->
+
+                    <!-- Button start -->
+
+                    <div class="promo-btn__container promo-btn--order">
+                      <a
+                        href="https://www.apple.com/apple-vision-pro/"
+                        class="btn btn--white promo__btn"
+                        >Buy now</a
+                      >
+                    </div>
+
+                    <!-- Button end -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="promo">
+                <!-- promo banner satrt -->
+
+                <div class="promo__banner">
+                  <picture>
+                    <source
+                      media="(max-width: 800px)"
+                      srcset="./public/images/tile__cauwwcyyn9hy_small.jpg"
+                    />
+                    <source
+                      media="(min-width: 800px) and (max-width:1024px)"
+                      srcset="./public/images/tile__cauwwcyyn9hy_medium.jpg"
+                    />
+                    <source
+                      media="(min-width:1024px)"
+                      srcset="./public/images/tile__cauwwcyyn9hy_large.jpg"
+                    />
+                    <img
+                      src="./public/images/tile__cauwwcyyn9hy_small.jpg"
+                      alt="Vision pro product"
+                      class="d-block w-100"
+                    />
+                  </picture>
+                </div>
+
+                <!-- promo banner end -->
+
+                <!-- promo link satrt -->
+
+                <a
+                  href="https://www.apple.com/apple-vision-pro/"
+                  class="promo__link promo-link--hover"
+                  >&nbsp;</a
+                >
+
+                <!-- promo link end -->
+
+                <!-- promo content to make it in the center of the img -->
+
+                <div class="promo--content promo-content--satrt">
+                  <div class="promo__content--bottom promo-bottom--flex">
+                    <!-- heading satrt -->
+
+                    <h3
+                      class="promo__heading promo-heading--order promo-heading--black"
+                    >
+                      <!--  heading satrt  -->
+                      Card
+                      <!--  heading end  -->
+                    </h3>
+
+                    <!-- heading end -->
+
+                    <!-- heading text satrt -->
+
+                    <p class="promo__text promo-text--order">
+                      Welcome to the era of spatial computing.
+                    </p>
+
+                    <!-- heading text end -->
+
+                    <!-- Button start -->
+
+                    <div class="promo-btn__container promo-btn--order">
+                      <a
+                        href="https://www.apple.com/apple-vision-pro/"
+                        class="btn btn--white promo__btn"
+                        >Buy now</a
+                      >
+                    </div>
+
+                    <!-- Button end -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </section>
+      <section aria-label="animated promotions" class="block--fullscreen">
+        <div class="marquee">
+          <div class="marquee__container">
+            <div class="marquee__img">
+              <img
+                src="./public/images/promo_apple_vision_pro_small.jpg"
+                alt=""
+              />
+            </div>
+            <div class="marquee__img">
+              <img
+                src="./public/images/promo_apple_watch_series_9_order_small.jpg"
+                alt=""
+              />
+            </div>
+            <div class="marquee__img">
+              <img
+                src="./public/images/promo_ipad__fioegapg12qi_small.jpg"
+                alt=""
+              />
+            </div>
+            <div class="marquee__img">
+              <img
+                src="./public/images/promo_iphone_tradein__bugw15ka691e_small.jpg"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- entertinment end -->
+    </main>
+    <!-- main end -->
+    <!-- footer start -->
+    <footer class="block--fullscreen footer">
+      <section
+        aria-label="the footer paragrph"
+        class="block block--container footer__para"
+      >
+        <p>
+          1. Trade-in values will vary based on the condition, year, and
+          configuration of your eligible trade-in device. Not all devices are
+          eligible for credit. You must be at least 18 years old to be eligible
+          to trade in for credit or for an Apple Gift Card. Trade-in value may
+          be applied toward qualifying new device purchase, or added to an Apple
+          Gift Card. Actual value awarded is based on receipt of a qualifying
+          device matching the description provided when estimate was made. Sales
+          tax may be assessed on full value of a new device purchase. In-store
+          trade-in requires presentation of a valid photo ID (local law may
+          require saving this information). Offer may not be available in all
+          stores, and may vary between in-store and online trade-in. Some stores
+          may have additional requirements. Apple or its trade-in partners
+          reserve the right to refuse or limit quantity of any trade-in
+          transaction for any reason. More details are available from Apple’s
+          trade-in partner for trade-in and recycling of eligible devices.
+          Restrictions and limitations may apply.
+        </p>
+        <p>
+          Available in the U.S. on apple.com, in the Apple Store app, and at
+          Apple Stores.
+        </p>
+        <p>
+          To access and use all Apple Card features and products available only
+          to Apple Card users, you must add Apple Card to Wallet on an iPhone or
+          iPad that supports and has the latest version of iOS or iPadOS. Apple
+          Card is subject to credit approval, available only for qualifying
+          applicants in the United States, and issued by Goldman Sachs Bank USA,
+          Salt Lake City Branch.
+        </p>
+        <p>
+          If you reside in the U.S. territories, please call Goldman Sachs at
+          877-255-5923 with questions about Apple Card.
+        </p>
+        <p>
+          Learn more about how Apple Card applications are evaluated at
+          support.apple.com/kb/HT209218.
+        </p>
+        <p>A subscription is required for Apple TV+.</p>
+        <p>
+          A subscription is required for Apple Arcade, Apple Fitness+, and Apple
+          Music.
+        </p>
+      </section>
+      <section class="block block--container grid grid--1x5 footer__main">
+        <div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">
+                Shop and Learn
+              </h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Store</a></li>
+                <li><a href="#">Mac</a></li>
+                <li><a href="#">iPad</a></li>
+                <li><a href="#">iPhone</a></li>
+                <li><a href="#">Watch</a></li>
+                <li><a href="#">Vision</a></li>
+                <li><a href="#">AirPhods</a></li>
+                <li><a href="#">Tv & Home</a></li>
+                <li><a href="#">AirTag</a></li>
+                <li><a href="#">Accessories</a></li>
+                <li><a href="#">Gift Card</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">Apple Wallet</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Wallet</a></li>
+                <li><a href="#">Apple Card</a></li>
+                <li><a href="#">Apple Pay</a></li>
+                <li><a href="#">Apple Cash</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">Account</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Manage Your Apple ID</a></li>
+                <li><a href="#">Apple Store Account</a></li>
+                <li><a href="#">iCloud.com</a></li>
+                <li><a href="#">iPhone</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">
+                Entertainment
+              </h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Apple One</a></li>
+                <li><a href="#">Apple TV+</a></li>
+                <li><a href="#">Apple Music</a></li>
+                <li><a href="#">Apple Arcade</a></li>
+                <li><a href="#">Apple Fitness+</a></li>
+                <li><a href="#">Apple News+</a></li>
+                <li><a href="#">Apple Prodcasts</a></li>
+                <li><a href="#">Apple Books</a></li>
+                <li><a href="#">Apple Store</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">Apple Store</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Find a Store</a></li>
+                <li><a href="#">Genius Bar</a></li>
+                <li><a href="#">Today at Apple</a></li>
+                <li><a href="#">Group Reservations</a></li>
+                <li><a href="#">Apple Camp</a></li>
+                <li><a href="#">Apple Store App</a></li>
+                <li><a href="#">Certified Refurbished</a></li>
+                <li><a href="#">Apple Trade In</a></li>
+                <li><a href="#">Finacing</a></li>
+                <li><a href="#">Carrier Deais at Apple</a></li>
+                <li><a href="#">Order Status</a></li>
+                <li><a href="#">Shopping Help</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">For Business</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Apple and Business</a></li>
+                <li><a href="#">Shop for Business</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">
+                For Education
+              </h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Apple and Education</a></li>
+                <li><a href="#">Shop for K-12</a></li>
+                <li><a href="#">Shop for College</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">
+                For Healthcare
+              </h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Apple in Healthcare</a></li>
+                <li><a href="#">Health on Apple Watch</a></li>
+                <li><a href="#">Health Records on iPhone</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">
+                For Government
+              </h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Shop for Government</a></li>
+                <li><a href="#">Shop for Veterans and Millitary</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">Apple Values</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Accessibility</a></li>
+                <li><a href="#">Education</a></li>
+                <li><a href="#">Environment</a></li>
+                <li><a href="#">Inclusion and Diversity</a></li>
+                <li><a href="#">Privacy</a></li>
+                <li><a href="#">Racial Equity and Justice</a></li>
+                <li><a href="#">Supply Chain</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="collapsible footer--collapsible">
+            <div class="collapsible__header footer__heading">
+              <h3 class="collapsible__heading footer__heading">About Apple</h3>
+              <div>
+                <i
+                  class="fa-solid fa-chevron-right fa-sm collapsible__icon"
+                ></i>
+              </div>
+            </div>
+            <div class="collapsible__content fotter__content">
+              <ul class="footer__list">
+                <li><a href="#">Newstoom</a></li>
+                <li><a href="#">Apple Leadership</a></li>
+                <li><a href="#">Career Opportunitirs</a></li>
+                <li><a href="#">Investors</a></li>
+                <li><a href="#">Ethics & Compilance</a></li>
+                <li><a href="#">Events</a></li>
+                <li><a href="#">Contact Apple</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        aria-label="contact footer"
+        class="block block--container footer__bottom"
+      >
+        <p>
+          More ways to shop: <a href="#">Find an Apple Store</a> or
+          <a href="#">other retailer</a> near you. Or call 1-800-MY-APPLE.
+        </p>
+
+        <div class="footer__copyright">
+          <div>Copyright © 2024 Apple Inc. All rights reserved.</div>
+          <div>
+            <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> |<a
+              href="#"
+            >
+              Sales and Refunds </a
+            >| <a href="#">Legal</a> | <a href="#">Site Map</a>
+          </div>
+          <p>
+            <a href="#">United States</a>
+          </p>
+        </div>
+      </section>
+    </footer>
+    <!-- footer end -->
+    <!-- bootstrap frameworke js satrt -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <!-- bootstrap frameworke js end -->
+    <!-- collapsible js start -->
+    <script src="./src/js/main.js"></script>
+    <!-- collapsible js end -->
+  </body>
+  <!--TODO: body end -->
+</html>
